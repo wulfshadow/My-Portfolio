@@ -6,7 +6,7 @@
 					margin-left: 20%;
 					margin-right: 20%;
 					border: 1px dotted gray;
-					padding: 10px 10px 10px 10px;
+					padding: 1px 1px 1px 1px;
 					font-family: sans-serif;
 			}
 		</style>
