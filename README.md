@@ -1,13 +1,13 @@
 <html>
 	<head>
-		<title>Starbuzz Coffee 2</title>
+		<title>Sam Laos</title>
 		<style type="text/css">
 			body {
 					background-color: #d2b48c;
-					margin-left: 20%;
-					margin-right: 20%;
+					margin-left: 10%;
+					margin-right: 10%;
 					border: 1px dotted gray;
-					padding: 10px 10px 10px 10px;
+					padding: 5px 5px 5px 5px;
 					font-family: sans-serif;
 			}
 		</style>
