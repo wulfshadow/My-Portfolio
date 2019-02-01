@@ -3,10 +3,6 @@
 		<style type="text/css">
 			body {
 					background-color: #83b1fc;
-					margin-left: 20%;
-					margin-right: 20%;
-					border: 1px dotted gray;
-					padding: 1px 1px 1px 1px;
 					font-family: sans-serif;
 			}
 		</style>
