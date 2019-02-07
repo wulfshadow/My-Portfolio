@@ -9,7 +9,7 @@
 	<head>
 
 	<body>
-		<h1>Sam Laos</h1>
-		<h2>My Portfolio</h2>
-		<p>This is a collection of notable achievements of mine, both in the area of Computer Science, as well as other areas.</p>
+		<h1>Sam Laos -- Portfolio</h1>
+		<h2>Education:</h2>
+		<p>Cleveland High School: IB Computer Science Sl 1-2, Game Programming, Beginning Art, Illustration, IB Literature, Spanish.</p>
 		
