@@ -16,9 +16,7 @@
 		<p>One With Heart: Poekoelan Tjimindie Tulen (Indonesian Martial Arts), Chinese Broadsword.</p>
 		
 		<p id="p1">
-		This is a text.
-		This is a text.
-		This is a text.
+		Hello. This is my Javascript Demonstration.
 		</p>
 
 		<input type="button" value="Hide text" 
