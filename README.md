@@ -2,7 +2,7 @@
 	<head>
 		<style type="text/css">
 			body {
-					background-color: #83b1fc;
+					background-color: #0044b2;
 					font-family: sans-serif;
 			}
 		</style>
