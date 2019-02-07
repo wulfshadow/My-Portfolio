@@ -9,7 +9,7 @@
 	<head>
 
 	<body>
-		<h1>Sam Laos -- Portfolio</h1>
+		<h1>My Portfolio</h1>
 		<h2>Education/Experience</h2>
 		<p>Cleveland High School: IB Computer Science Sl 1-2, Game Programming, Beginning Art, Illustration, IB Literature, Spanish.</p>
 		<p>Trackers Northwest: Ranger's Apprenticeship (Survival Skills, Archery, etc.).</p>
