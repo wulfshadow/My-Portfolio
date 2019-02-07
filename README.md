@@ -14,3 +14,17 @@
 		<p>Cleveland High School: IB Computer Science Sl 1-2, Game Programming, Beginning Art, Illustration, IB Literature, Spanish.</p>
 		<p>Trackers Northwest: Ranger's Apprenticeship (Survival Skills, Archery, etc.).</p>
 		<p>One With Heart: Poekoelan Tjimindie Tulen (Indonesian Martial Arts), Chinese Broadsword.</p>
+		
+		<p id="p1">
+		This is a text.
+		This is a text.
+		This is a text.
+		</p>
+
+		<input type="button" value="Hide text" 
+		onclick="document.getElementById('p1').style.visibility='hidden'">
+
+		<input type="button" value="Show text"
+		onclick="document.getElementById('p1').style.visibility='visible'">
+
+		</body>
