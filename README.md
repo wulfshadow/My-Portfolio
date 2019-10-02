@@ -1,6 +1,6 @@
 <body>
 	<h1>Sam Laos</h1>
-	<p>I am a high school student with interests in computer science, art,graphic design, game design, archery, and more.</p>
+	<p>I am a high school student with interests in computer science, art,graphic design, game design, drawing, archery, and more.</p>
 	
 	<h2>Education/Experience</h2>
 	<p>Cleveland High School: IB Computer Science Sl 1-2, Game Programming, Beginning Art, Illustration, IB Literature, Spanish.</p>
